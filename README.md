@@ -1,0 +1,2 @@
+# grafull
+grayscale to fullcolor
